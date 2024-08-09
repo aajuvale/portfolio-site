@@ -128,11 +128,11 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 75px;
   line-height: 1.3;
   font-weight: 300;
-  -webkit-transform: rotate(-5deg);
+  /* -webkit-transform: rotate(-5deg);
   -moz-transform: rotate(-5deg);
   -ms-transform: rotate(-5deg);
   -o-transform: rotate(-5deg);
-  transform: rotate(-5deg);
+  transform: rotate(-5deg); */
 }
 
 /*  Potential Fonts : MONOTON, Poppins, ORBITRON, BUNGEE SHADE, LONDRINA SHADOW*/
@@ -471,7 +471,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .timeline .timeline-heading > div h3 {
   display: inline-block;
   padding: 7px 15px;
-  font-size: 18px;
+  font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: bold;
